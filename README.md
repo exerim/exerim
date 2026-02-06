@@ -18,19 +18,17 @@ Here are some ideas to get you started:
 
 **Exerim.pl** Kultura i Sztuka.
 
-🌒 **Tematyka:**
-- poezja klasyczna
-- miłość, śmierć, noc, natura, przemijanie
-- malarstwo i sztuka symboliczna
-
 🔗 **Strona główna:**  
 https://exerim.pl
 
-📚 **Kolekcje tematyczne:**  
-https://exerim.pl/strefa/tematy
+🤵 **Autorzy:**  
+https://exerim.pl/strefa/autorzy
 
-📜 **Autorzy:**  
-https://exerim.pl/autorzy
+📜 **Utwory:** 
+https://exerim.pl/strefa/utwory
+
+📚 **Kolekcje tematyczne:**  
+https://exerim.pl/strefa/tematy 
 
 ---
 
